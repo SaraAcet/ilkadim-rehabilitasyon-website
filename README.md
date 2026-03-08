@@ -36,6 +36,23 @@ Due to ethical and privacy considerations, images of individuals receiving speci
 
 ---
 
+## NOT-NOTE
+Bu projede img klasörü GitHub yükleme limitleri nedeniyle ayrı parçalar halinde yüklenmiştir.
+Projeyi inceleyenlerin tüm görsellerin doğru şekilde yüklenip yüklenmediğini kontrol etmeleri önerilir.
+
+In this project, the image folder was uploaded in separate parts due to GitHub upload limitations.
+It is recommended to verify that all image assets are correctly included when reviewing the project.
+
+
+---
+
+
 ## Geliştirici | Developer
 
 SARA ACET
+
+
+
+
+
+
